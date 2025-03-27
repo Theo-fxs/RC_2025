@@ -1,0 +1,8 @@
+Exercício 1
+
+1 PAN porque são equipamentos pessoais
+2 LAN e 1 a 2 KM
+3 CAN 5 KM no máximo
+4 PAN porque o máximo de ligação e de 10m 
+5 PAN porque equipamentos pessoais
+
