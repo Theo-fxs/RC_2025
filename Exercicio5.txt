@@ -1,0 +1,14 @@
+1. [Tablet] -- (Wi-Fi direto) -- [Impressora]
+
+2. [Pc1]
+   [Pc2] -- (Switch) -- [Edificio de aulas]
+   [Pc3]
+3. [Fibra optica] -- [Edificio1]
+          |               |
+          |            (fibra)
+          |               |
+          ---------  [Edificio2] 
+          |               |
+          |            (fibra)
+          |               | 
+          ---------  [Edificio3]
