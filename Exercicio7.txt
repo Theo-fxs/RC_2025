@@ -1,0 +1,8 @@
+1.
+a). Há 8 fios dentro do cabo e todos eles precisam estar conectados corretamente para obter velocidades gigabit. Mas apenas 4 precisam estar conectados para obter 100Mbps. Isso pode ser a causa mais provavel do problema 1.
+
+2.
+b). Nao usa PoE porque o PoE nao suporte capacidades de dados ethernet.
+
+3.
+c). Use um OTDR para verificar falhas na fibra e um medidor de potência óptica para medir a perda de sinal. Se for um link ativo, cheque os dados SFP no switch para ver erros e níveis de sinal.
