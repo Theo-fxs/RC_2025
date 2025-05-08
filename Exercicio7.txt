@@ -1,8 +1,8 @@
 1.
-a). Há 8 fios dentro do cabo e todos eles precisam estar conectados corretamente para obter velocidades gigabit. Mas apenas 4 precisam estar conectados para obter 100Mbps. Isso pode ser a causa mais provavel do problema 1.
+a).Conectores
 
 2.
 b). Nao usa PoE porque o PoE nao suporte capacidades de dados ethernet.
 
 3.
-c). Altas taxas de erro entre andares podem ser causadas por adaptadores e conectores sujos, danificados ou mal conectados. Limpe e inspecione com as ferramentas adequadas e teste a perda de sinal com um medidor de potência ou VFL para identificar componentes com defeito.
+c). o erro que pode ser os conectores ve se tem sujeira out peoira , ver os conectores LC/SC
