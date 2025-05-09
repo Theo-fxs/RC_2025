@@ -1,0 +1,3 @@
+a. uma bridge interconnecta dispositivos para rede locais.
+b. nao porque o bridge atua comforme o enderco Mac.
+c. o bridge envia informacoes com o mac.
