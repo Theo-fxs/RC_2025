@@ -1,0 +1,8 @@
+a. Envia para todos os computadores ligados com o hub.
+b. Se for ligado por um switch pode enviar para todos ou pode enviar para algem specifico.
+c.
+Vantagens de hub = Mais barato , facil de instalar , pode adaptar redes de diversos tamanhos
+Desvantagens de hub = Mais lento , Preocupações com segurança , Colisões
+--------------------------------------------------------------------------------------------
+Vantagens de switch = Mais eficiente , Melhor desempenho de rede , Poe
+Desvantagens de switch = Mais caro , Tráfego entre Redes , Pactos multicast 
