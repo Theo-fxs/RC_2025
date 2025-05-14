@@ -1,3 +1,6 @@
+S = Sim
+N = Nao 
+
 
    Bridge  Switch  Router
 1.   S       S       N      
