@@ -1,0 +1,7 @@
+
+   Bridge  Switch  Router
+1.   S       S       N      
+2.   S       S       N  
+3.   N       N       S       
+4.   N       N       S          
+5.  CM2     CM2     CM3                           
