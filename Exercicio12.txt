@@ -1,0 +1,4 @@
+Funcao              | Gateway                          |   Router                     |
+Interliga redes     |    S (Protocolos differentes)    |     S (Protocolos mesmos)    |
+Traduz Protocolos   |    N                             |     S                        |
+Encaminha Tragego   |    S                             |     S                        |
