@@ -29,7 +29,7 @@ Camada 6 = Conversão de Dados
 Camada 7 = Ataques DDoS na camada 7
 
 2.3
-Camada 1 = Amostragem de sinal
+Camada 1 = Conectando dispositivos: Verifique se os dispositivos se conectam fisicamente através dos cabos (e.g., Ethernet, fibra ótica).
 Camada 2 = Ping
 Camada 3 = Traceroute
 Camada 4 = Tcpdump
