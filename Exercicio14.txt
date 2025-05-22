@@ -1,0 +1,25 @@
+1. Aplicação, Transporte, Rede , Acesso à Rede
+a. Camada de Acesso à Rede: Esta camada lida com a transmissão física de dados 
+b. Camada de Internet: Esta camada lida com o roteamento de pacotes de dados através das redes.
+c. Camada de Transporte: Esta camada garante a entrega confiável e ordenada de dados.
+d. Camada de Aplicação: Esta camada fornece serviços de rede para aplicativos.
+
+
+2.1
+Camada de aplicação (FTP, SMTP, TELNET, HTTP, HTTPS, etc.)
+Camada de transporte (TCP, UDP, etc.)
+Camada de rede (IP)
+Camada física (Ethernet, etc.).
+
+2.2
+a camada de aplicação lida com o protocolo SMTP (Simple Mail Transfer Protocol) para enviar o e-mail, a camada de transporte usa o TCP para garantir a entrega confiável dos dados, a camada de rede utiliza o IP para rotear os dados entre redes, e a camada de link de dados lida com a transmissão física dos dados em uma rede específica. 
+
+
+
+
+
+
+
+
+
+
