@@ -1,0 +1,40 @@
+1.    
+               7.Aplicacao
+             6.Apresentacao
+                5.Sessao
+              4.Transporte
+                 3.Rede
+           2.Ligacao de dados
+                1.Fisica
+
+2.
+
+
+2.1
+Camada 1 = definir e controlar a transmissão e recepção de dados no meio físico
+Camada 2 = garantir a transmissão de dados entre dispositivos diretamente conectados em uma rede local (LAN), utilizando endereços MAC para identificar os destinatários
+Camada 3 = roteamento e encaminhamento de dados entre diferentes redes, utilizando endereços IP para identificar os destinos dos pacotes
+Camada 4 = garantir que os dados sejam entregues de forma confiável e segura entre dois pontos de comunicação (aplicativos ou hosts)
+Camada 5 = gerenciar e sincronizar as comunicações entre aplicações em diferentes dispositivos
+Camada 6 = garantir que os dados sejam apresentados e interpretados de forma compatível entre diferentes sistemas e aplicações
+Camada 7 = Nela conseguimos enviar e-mails, transferir arquivos, acessar websites, conectar remotamente em outras máquinas, entre outras coisas
+
+2.2
+Camada 1 = Problemas de Cabeamento
+Camada 2 = Perda de quadros
+Camada 3 = Falhas de roteamento
+Camada 4 = Segurança
+Camada 5 = Falhas de sincronização
+Camada 6 = Conversão de Dados
+Camada 7 = Ataques DDoS na camada 7
+
+2.3
+Camada 1 = Amostragem de sinal
+Camada 2 = Ping
+Camada 3 = Traceroute
+Camada 4 = Tcpdump
+Camada 5 = WireShark
+Camada 6 = Wireshark
+Camada 7 = Testar as aplicações
+
+
