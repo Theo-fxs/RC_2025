@@ -1,0 +1,24 @@
+Funcao principal
+Https : garantir a segurança da comunicação entre um navegador web e um servidor web, criptografando as informações transmitidas e protegendo-as de interceptação ou alteração por terceiros
+TCP :garantir a transmissão confiável e ordenada de dados entre dispositivos em uma rede
+DNS :traduzir nomes de domínio
+ICMP :comunicar informações sobre o estado e a conectividade da rede
+FTP :transferir arquivos entre um cliente (computador) e um servidor numa rede baseada em TCP/IP
+
+
+Camada do modelo TCP/IP 
+Https :aplicação
+TCP :transporte
+DNS :Internet
+ICMP :Internet
+FTP :Aplicação
+
+
+
+Exemplo de ultilizacao
+Https : Comércio eletrónico: Transações de pagamento online, onde são trocados dados de cartão de crédito e outras informações financeiras. 
+TCP : O protocolo HTTP usa o TCP para garantir que as páginas web e outros recursos sejam transferidos da forma como foram solicitados, em sequências corretas e sem perdas.
+DNS : Digite o nome de domínio (ex: www.exemplo.com) no seu navegador. O DNS localiza o endereço IP associado a esse domínio e o computador envia a requisição para esse endereço IP. 
+ICMP : O comando "ping" utiliza ICMP para enviar uma solicitação de eco (Echo Request) para um host de destino e verificar se ele responde (Echo Reply). Isto ajuda a determinar se o destino é alcançável e mede o tempo de ida e volta. 
+FTP : Transferir arquivos de um website para o servidor, como HTML, CSS, JavaScript, imagens, etc. 
+
