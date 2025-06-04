@@ -1,0 +1,19 @@
+1.)
+Indica tres funcoes do sistema operativo de rede local (SON) qie estap cçara,emte +resemtes meste cenraio. Justifica cada uma
+= Contas de utilizador para cada funcionario , Pastas pratilhadas com permissoes especificas , Um servico de autenticacao que obriga os utilizadores a fazer login com credenciais proprias. 
+
+2.)
+Se um funcionario do producao tentar aceder a pasta do departamento de RH o que deve acontecer? Porque?
+= O funcionario nao tem accesso da pasta do departamento de RH porque ta seguro e tem ficheiros sensativos. 
+
+3.)
+Qual a funcao do sistema operativo ao obrigar os ultilizadores a efetuarem login com credenciais proprias?
+= Para ter certeza de que ninguém roubará os arquivos.
+
+4.)
+A partilha da impressora entre os departamentso de RH e administracao e contralada por que? Que papel tem o SON aqui?
+= O papel do SON aqui e proteger os ficheiros para ser robado pelo aimar.
+
+5.)
+Como e que o SON pode ajudar o administrador de rede a indentificar uma tentativa de acesso  nao autorizado?
+= Um sistema de registo de eventos e tentativas de acesso nao autorizado
